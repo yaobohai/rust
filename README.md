@@ -30,3 +30,10 @@ Build
 ```
 rustc src/main.rs
 ```
+
+
+
+learning materials:
+
+https://course.rs/first-try/editor.html  
+https://doc.rust-lang.org/rust-by-example/index.html
