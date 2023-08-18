@@ -2,9 +2,9 @@ fn say() -> String {
     return String::from("拜拜您👋");
 }
 
-fn main() {    
-    let status="😅";
+fn main() {
     let user_name="博海";
+    let user_status="😅";
 
     println!("你好啊,{}{} ",user_name,status);
     println!("------------------------------");
