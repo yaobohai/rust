@@ -1,5 +1,5 @@
 use std::env;
-use std::borrow::Cow;
+// use std::borrow::Cow;
 
 fn say() -> String {
     return String::from("拜拜您👋");
